@@ -15,6 +15,7 @@ exports[`should render ExpenseForm correctly 1`] = `
     <input
       onChange={[Function]}
       placeholder="Amount"
+      step="0.01"
       type="number"
       value=""
     />
@@ -140,6 +141,7 @@ exports[`should render ExpenseForm correctly with expense data 1`] = `
     <input
       onChange={[Function]}
       placeholder="Amount"
+      step="0.01"
       type="number"
       value="1.95"
     />
@@ -268,6 +270,7 @@ exports[`should render error for invalid form submission 1`] = `
     <input
       onChange={[Function]}
       placeholder="Amount"
+      step="0.01"
       type="number"
       value=""
     />
