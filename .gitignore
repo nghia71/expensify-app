@@ -1,12 +1,4 @@
 .DS_Store
-
-*.py
-
 node_modules/
-public/bundle.js
-public/bundle.js.map
-public/bundle.js.LICENSE.txt
-public/styles.css
-public/styles.css.map
-
+dist/
 yarn.lock
