@@ -13,6 +13,10 @@
     "start": "node server/server.js",
     "heroku-postbuild": "yarn run build:prod"
   },
+  "engines": {
+    "node": "^14.16.0",
+    "yarn": "^1.22.10"
+  },
   "dependencies": {
     "@babel/core": "^7.13.10",
     "@babel/plugin-proposal-class-properties": "^7.13.0",
