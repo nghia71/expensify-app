@@ -8,3 +8,5 @@ public/bundle.js.map
 public/bundle.js.LICENSE.txt
 public/styles.css
 public/styles.css.map
+
+yarn.lock
