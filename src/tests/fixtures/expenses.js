@@ -5,7 +5,7 @@ export default [{
     description: 'Gum',
     notes: 'Gym',
     amount: 195,
-    createdAt: moment(0).add(1, 'day').valueOf()
+    createdAt: 0
 }, {
     id: '2',
     description: 'Rent',
